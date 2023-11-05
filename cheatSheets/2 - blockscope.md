@@ -19,7 +19,7 @@ console.log(var1, var2);
 
 
 
-### 🟢 Example (fail)
+### 🟢 Example (Fail)
 ```JavaScript
 let var1 = "Here ";
 {
