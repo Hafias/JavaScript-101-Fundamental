@@ -19,7 +19,7 @@
 
 
 
-### 🟢 Example (Pass)
+### 🟢 Example
 ```JavaScript
     const c1 = 7;
     const c2 = 6;
