@@ -103,7 +103,7 @@
     - Math
     - Object
     - undefined
-  - if forget it program will tell
+  - fine to do not remembered (Finally, You will remember it automatically)
     - boolean
     - debugger
     - enum
