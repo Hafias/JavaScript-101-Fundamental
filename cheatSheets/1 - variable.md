@@ -1,6 +1,6 @@
 ### 🟢 Syntax
 ```
-instruction name = value
+[instruction] [name] = [value]
 ```
 
 
