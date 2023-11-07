@@ -52,5 +52,5 @@ Hafias
 ```
 ```Bash
 3
-ฺBeep Beepps Beeppps
+Beep Beepps Beeppps
 ```
