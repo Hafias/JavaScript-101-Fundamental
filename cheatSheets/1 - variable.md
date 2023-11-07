@@ -133,6 +133,8 @@
   - '9' <- single qoute
   - \`7\` <- grave accent or backtick
   - "boop beep boop beep"
+  - "true"
+  - "false"
 ### Boolean
   - true
   - false
