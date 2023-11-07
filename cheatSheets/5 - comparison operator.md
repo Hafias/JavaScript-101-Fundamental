@@ -18,16 +18,16 @@
 
 ### 🟢 Example
 ```JavaScript
-  const var1 = "1";
-  const var2 = 2;
-  const isV1EqualToV2 = (var1 == var2);
+const var1 = "1";
+const var2 = 2;
+const isV1EqualToV2 = (var1 == var2);
 ```
 ```JavaScript
-  const var1 = false;
-  const v1IsTrue = var1 === true;
+const var1 = false;
+const v1IsTrue = var1 === true;
 ```
 ```JavaScript
-  const var1 = 35;
-  const var2 = 75;
-  const isV1GTV2 = var1 > var2;
+const var1 = 35;
+const var2 = 75;
+const isV1GTV2 = var1 > var2;
 ```

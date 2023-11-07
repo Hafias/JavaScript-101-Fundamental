@@ -3,6 +3,7 @@
 // out block
 { // <- open block
     // in block
+    // statement
 } // <- close block
 ```
 
@@ -12,7 +13,7 @@
 ```JavaScript
 var var1 = "boop ";
 {
-    var var2 = "beeps";
+  var var2 = "beeps";
 }
 console.log(var1, var2);
 ```
@@ -23,7 +24,7 @@ console.log(var1, var2);
 ```JavaScript
 let var1 = "boop ";
 {
-    let var2 = "beeps";
+  let var2 = "beeps";
 }
 console.log(var1, var2); // <- var2 is not defined
 ```
@@ -34,7 +35,7 @@ console.log(var1, var2); // <- var2 is not defined
 ```JavaScript
 let var1 = "boop ";
 {
-    let var2 = "beeps";
-    console.log(var1, var2);
+  let var2 = "beeps";
+  console.log(var1, var2);
 }
 ```
