@@ -113,7 +113,7 @@ switch (/* expression */) {
   }
 }
 ```
-### Example
+### Example 1
 ```JavaScript
 const day = 3;
 switch (day) {
@@ -134,7 +134,7 @@ Thursday
 Friday
 Saturday
 ```
-### Example 1
+### Example 2
 ```JavaScript
 const day = 3;
 switch (day) {
@@ -151,7 +151,7 @@ switch (day) {
 ```bash
 Tuesday
 ```
-### Example 2
+### Example 3
 ```JavaScript
 const day = 3;
 switch (true) {
@@ -174,7 +174,7 @@ Thursday
 Friday
 Saturday
 ```
-### Example 3
+### Example 4
 ```JavaScript
 const day = 3;
 switch (true) {
@@ -191,7 +191,7 @@ switch (true) {
 ```bash
 Sunday
 ```
-### Example 4
+### Example 5
 ```JavaScript
 
 const day = 753;
