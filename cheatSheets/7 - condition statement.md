@@ -19,6 +19,7 @@ console.log("DONE");
 
 
 ## 🟢 If-else Statement
+### 💲 Syntax
 ```JavaScript
 if (/* condition */) {
   // if condition is true
@@ -45,6 +46,7 @@ console.log("DONE");
 
 
 ## 🟢 If-else-if Statement
+### 💲 Syntax
 ```JavaScript
 if (/* condition */) {
   // statement
