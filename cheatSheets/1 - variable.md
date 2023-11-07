@@ -107,7 +107,7 @@
     - boolean
     - debugger
     - enum
-    - funal
+    - final
     - function
     - goto
     - double
