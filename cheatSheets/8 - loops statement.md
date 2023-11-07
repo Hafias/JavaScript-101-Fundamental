@@ -1,5 +1,5 @@
 ## 🟢 For Loop
-### Syntax
+### 💲 Syntax
 ```JavaScript
 for (/* initialization */; /* condition */; /* afterthought */) {
   // statement
@@ -88,7 +88,7 @@ for (let i = 0; i < 5; i++) {
 
 
 ## 🟢 Do-while Loop
-### Syntax
+### 💲 Syntax
 ```JavaScript
 do {
   // statement
@@ -185,7 +185,7 @@ do {
 
 
 ## 🟢  While-do Loop
-### Syntax
+### 💲 Syntax
 ```JavaScript
 while (/* condition */) {
   // statement
