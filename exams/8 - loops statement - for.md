@@ -305,8 +305,15 @@ break;
 ##### ❄️ Hint
 ```JavaScript
 const thisIsInt = 5;
+let isPrime = false;
 for ( ; ; ){
     // วน 6 - 10
+
+    // xxx
+    
+    if (xxx) {
+        // xxx
+    }
 }
 if (xxx) {
     // is prime
