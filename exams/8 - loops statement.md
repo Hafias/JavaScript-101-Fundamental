@@ -1,4 +1,4 @@
-## 🟢 For Statement
+## 🟢 For | Do-while | While-do Statement
 ### ⚡ Exam 1
 ```JavaScript
 // ให้แสดงจำนวนตั้งแต่ 0 - 9 ออกมาทาง terminal

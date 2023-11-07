@@ -48,4 +48,4 @@
   - [For](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/8%20-%20loops%20statement.md#-for-loop)
   - [Do-while](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/8%20-%20loops%20statement.md#-do-while-loop)
   - [While-do](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/8%20-%20loops%20statement.md#--while-do-loop)
-  - [Exam - for](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/exams/8%20-%20loops%20statement%20-%20for.md)
+  - [Exam - for](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/exams/8%20-%20loops%20statement.md)
