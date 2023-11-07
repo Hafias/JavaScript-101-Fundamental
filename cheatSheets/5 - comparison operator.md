@@ -1,10 +1,10 @@
-### 🟢 Syntax
+## 🟢 Syntax
 ```
 [value or variable] [comparison operator] [value or variable]
 ```
 
 
-### 🟢 Comparison Operators
+## 🟢 Comparison Operators
   - == (equivalent)(value)
   - === (strict equivalent)(value and instance)
   - != (not equivalent)(value)
@@ -16,7 +16,7 @@
 
 
 
-### 🟢 Example
+### ⚡ Example
 ```JavaScript
 const var1 = "1";
 const var2 = 2;

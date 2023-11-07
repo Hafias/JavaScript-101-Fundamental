@@ -1,4 +1,4 @@
-### 🟢 Syntax
+## 🟢 Syntax
 ```
 [variable] [assignment operator] [value]
 [variable] [assignment operator] [variable]
@@ -8,7 +8,7 @@
 ```
 
 
-### 🟢 Arithmetic Operators
+## 🟢 Arithmetic Operators
   - = (equal)
   - += (plus equal)
   - -= (minus equal)
@@ -19,10 +19,12 @@
 
 
 
-### 🟢 Use in case
+### ⚪ Use in case
 กรณีที่ต้องการให้ตัวแปลเดิม แต่ทำการเพิ่ม ลบ ค่าเข้าไป หรือกระทำการกับค่าเดิม
 
-### 🟢 Example
+
+
+### ⚡ Example
 ```JavaScript
 const var1 = 3;
 let var2 = 6;

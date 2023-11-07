@@ -1,5 +1,5 @@
-### 🟢 For Loop
-#### Syntax
+## 🟢 For Loop
+### Syntax
 ```JavaScript
 for (/* initialization */; /* condition */; /* afterthought */) {
   // statement
@@ -12,13 +12,13 @@ for (/* initialization */; /* condition */; /* afterthought */) {
 // continue -> loop รอบถัดไปเลย
 // break -> หยุดการ loop
 ```
-#### Example 1
+### ⚡ Example 1
 ```JavaScript
 for (let i = 0; i < 5; i++) {
   console.log(i);
 }
 ```
-#### Output 1
+### 🟰 Output 1
 ```bash
 0
 1
@@ -26,19 +26,19 @@ for (let i = 0; i < 5; i++) {
 3
 4
 ```
-#### Example 2
+### ⚡ Example 2
 ```JavaScript
 for (let i = 0; i < 5; i = i + 2) {
   console.log(i);
 }
 ```
-#### Output 2
+### 🟰 Output 2
 ```bash
 0
 2
 4
 ```
-#### Example 3
+### ⚡ Example 3
 ```JavaScript
 let start = 3;
 let end = 5;
@@ -46,13 +46,13 @@ for (start; start <= end; start++) {
   console.log(start);
 }
 ```
-#### Output 3
+### 🟰 Output 3
 ```bash
 3
 4
 5
 ```
-#### Example 4
+### ⚡ Example 4
 ```JavaScript
 for (let i = 0; i < 5; i++) {
   if ((i == 3) || (i > 3)) {
@@ -62,13 +62,13 @@ for (let i = 0; i < 5; i++) {
   console.log(i);
 }
 ```
-#### Output 4
+### 🟰 Output 4
 ```bash
 0
 1
 2
 ```
-#### Example 5
+### ⚡ Example 5
 ```JavaScript
 for (let i = 0; i < 5; i++) {
   if (i == 3) {
@@ -78,7 +78,7 @@ for (let i = 0; i < 5; i++) {
   console.log(i);
 }
 ```
-#### Output 5
+### 🟰 Output 5
 ```bash
 0
 1
@@ -87,8 +87,8 @@ for (let i = 0; i < 5; i++) {
 
 
 
-### 🟢 Do-while Loop
-#### Syntax
+## 🟢 Do-while Loop
+### Syntax
 ```JavaScript
 do {
   // statement
@@ -99,7 +99,7 @@ do {
 // continue -> loop รอบถัดไปเลย
 // break -> หยุดการ loop
 ```
-#### Example 1
+### ⚡ Example 1
 ```JavaScript
 let counter = 0;
 do {
@@ -107,7 +107,7 @@ do {
   counter++;
 } while (counter < 5);
 ```
-#### Output 1
+### 🟰 Output 1
 ```bash
 0
 1
@@ -115,7 +115,7 @@ do {
 3
 4
 ```
-#### Example 2
+### ⚡ Example 2
 ```JavaScript
 let counter = 0;
 do {
@@ -123,13 +123,13 @@ do {
   counter = counter + 2;
 } while (counter < 5);
 ```
-#### Output 2
+### 🟰 Output 2
 ```bash
 0
 2
 4
 ```
-#### Example 3
+### ⚡ Example 3
 ```JavaScript
 let start = 3;
 let end = 5;
@@ -138,13 +138,13 @@ do {
   start++;
 } while (start <= end);
 ```
-#### Output 3
+### 🟰 Output 3
 ```bash
 3
 4
 5
 ```
-#### Example 4
+### ⚡ Example 4
 ```JavaScript
 let counter = 0;
 do {
@@ -157,13 +157,13 @@ do {
   counter++;
 } while (counter < 5);
 ```
-#### Output 4
+### 🟰 Output 4
 ```bash
 0
 1
 2
 ```
-#### Example 5
+### ⚡ Example 5
 ```JavaScript
 let counter = 0;
 do {
@@ -175,7 +175,7 @@ do {
   counter++;
 } while (counter < 5);
 ```
-#### Output 5
+### 🟰 Output 5
 ```bash
 0
 1
@@ -184,8 +184,8 @@ do {
 
 
 
-### 🟢  While-do Loop
-#### Syntax
+## 🟢  While-do Loop
+### Syntax
 ```JavaScript
 while (/* condition */) {
   // statement
@@ -196,7 +196,7 @@ while (/* condition */) {
 // continue -> loop รอบถัดไปเลย
 // break -> หยุดการ loop
 ```
-#### Example 1
+### ⚡ Example 1
 ```JavaScript
 let counter = 0;
 while (counter < 5) {
@@ -204,7 +204,7 @@ while (counter < 5) {
   counter++;
 };
 ```
-#### Output 1
+### 🟰 Output 1
 ```bash
 0
 1
@@ -212,7 +212,7 @@ while (counter < 5) {
 3
 4
 ```
-#### Example 2
+### ⚡ Example 2
 ```JavaScript
 let counter = 0;
 while (counter < 5) {
@@ -220,13 +220,13 @@ while (counter < 5) {
   counter = counter + 2;
 };
 ```
-#### Output 2
+### 🟰 Output 2
 ```bash
 0
 2
 4
 ```
-#### Example 3
+### ⚡ Example 3
 ```JavaScript
 let start = 3;
 let end = 5;
@@ -235,13 +235,13 @@ while (start <= end) {
   start++;
 };
 ```
-#### Output 3
+### 🟰 Output 3
 ```bash
 3
 4
 5
 ```
-#### Example 4
+### ⚡ Example 4
 ```JavaScript
 let counter = 0;
 while (counter < 5) {
@@ -254,13 +254,13 @@ while (counter < 5) {
   counter++;
 };
 ```
-#### Output 4
+### 🟰 Output 4
 ```bash
 0
 1
 2
 ```
-#### Example 5
+### ⚡ Example 5
 ```JavaScript
 let counter = 0;
 while (counter < 5) {
@@ -272,7 +272,7 @@ while (counter < 5) {
   counter++;
 };
 ```
-#### Output 5
+### 🟰 Output 5
 ```bash
 0
 1

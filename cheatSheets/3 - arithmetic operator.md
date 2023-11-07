@@ -1,4 +1,4 @@
-### 🟢 Syntax
+## 🟢 Syntax
 ```
 [variable] = [value] [arithmetic operator] [value]
 [variable] = [value] [arithmetic operator] [variable]
@@ -7,7 +7,7 @@
 ```
 
 
-### 🟢 Arithmetic Operators
+## 🟢 Arithmetic Operators
   - \+ (plus)
   - \- (minus)
   - \* (multiply)
@@ -19,7 +19,7 @@
 
 
 
-### 🟢 Example
+## 🟢 Example
 ```JavaScript
 const var1 = 7;
 const var2 = 6;

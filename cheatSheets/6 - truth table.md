@@ -1,4 +1,4 @@
-### 🟢 And Table (Conjunctions)
+## 🟢 And Table (Conjunctions)
 |P|Q|P AND Q|
 |:-:|:-:|:-:|
 |T|T|T|
@@ -8,7 +8,7 @@
 
 
 
-### 🟢 Or Table (Disjunctions)
+## 🟢 Or Table (Disjunctions)
 |P|Q|P OR Q|
 |:-:|:-:|:-:|
 |T|T|T|
@@ -18,7 +18,7 @@
 
 
 
-### 🟢 Not Table (Negations)
+## 🟢 Not Table (Negations)
 |P|NOT P|
 |:-:|:-:|
 |T|F|
@@ -26,7 +26,7 @@
 
 
 
-### 🟢 Example
+### ⚡ Example
 ```JavaScript
 // And
 const P = true;

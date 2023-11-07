@@ -1,11 +1,11 @@
-### 🟢 Syntax
+## 🟢 Syntax
 ```
 [instruction] [name] = [value]
 ```
 
 
 
-### 🟢 Instruction
+## 🟢 Instruction
 |Type|Scope|Re-Declare|Re-Assign|
 |-|:-:|:-:|:-:|
 |var|global|✔️|✔️|
@@ -14,8 +14,8 @@
 
 
 
-### 🟢 Naming Style Guide
-#### Camel case
+## 🟢 Naming Style Guide
+### Camel case
   - carmelCase
   - myFirstVariable
   - thisIsSecondVar
@@ -23,7 +23,7 @@
   - workFlow
   - preResponse
   - somethingWork
-#### Pascal case
+### Pascal case
   - CarmelCase
   - MyFirstVariable
   - ThisIsSecondVar
@@ -31,7 +31,7 @@
   - WorkFlow
   - PreResponse
   - SomethingWork
-#### Snake case
+### Snake case
   - carmel_case
   - my_first_variable
   - this_is_second_var
@@ -39,7 +39,7 @@
   - work_flow
   - pre_response
   - something_work
-#### Upper Snake case
+### Upper Snake case
   - CARMEL_CASE
   - MY_FIRST_VARIABLE
   - THIS_IS_SECOND_VAR
@@ -50,7 +50,7 @@
 
 
 
-### 🟢 Naming Rule
+## 🟢 Naming Rule
   - start with letter, _ or $
   - cannot contain space or special charactor
   - cannot to be same as reserved word
@@ -58,7 +58,7 @@
 
 
 
-### 🟢 Reserved Words (not all)
+## 🟢 Reserved Words (not all)
   - recommend to remember
     - await
     - break
@@ -123,24 +123,24 @@
 
 
 
-### 🟢 Variable Type
-#### Number
+## 🟢 Variable Type
+### Number
   - 1
   - 9
   - 7
-#### String
+### String
   - "1" <- double qoute
   - '9' <- single qoute
   - \`7\` <- grave accent or backtick
   - "boop beep boop beep"
-#### Boolean
+### Boolean
   - true
   - false
   - 0 <- imply to false
   - number except 0 <- imply to true
-#### Array
+### Array
   - [1, 9, 7, 3, 5]
-#### Object
+### Object
 ```json
 {
   "key1": 1,

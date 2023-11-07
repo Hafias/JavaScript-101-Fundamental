@@ -1,12 +1,12 @@
-### 🟢 If Statement
-#### Syntax
+## 🟢 If Statement
+### 💲 Syntax
 ```JavaScript
 if (/* condition */) {
   // if condition is true
   // statement
 }
 ```
-### Example
+### ⚡ Example
 ```JavaScript
 const var1 = 70;
 const var2 = 60;
@@ -18,7 +18,7 @@ console.log("DONE");
 
 
 
-### 🟢 If-else Statement
+## 🟢 If-else Statement
 ```JavaScript
 if (/* condition */) {
   // if condition is true
@@ -29,7 +29,7 @@ else {
   // statement
 }
 ```
-### Example
+### ⚡ Example
 ```JavaScript
 const var1 = 70;
 const var2 = 60;
@@ -44,7 +44,7 @@ console.log("DONE");
 
 
 
-### 🟢 If-else-if Statement
+## 🟢 If-else-if Statement
 ```JavaScript
 if (/* condition */) {
   // statement
@@ -64,7 +64,7 @@ else {
 
 }
 ```
-### Example
+### ⚡ Example
 ```JavaScript
 const myVar = 70;
 if (myVar > 80) {
@@ -91,8 +91,8 @@ console.log("DONE");
 
 
 
-### 🟢 Switch Statement
-#### Syntax
+## 🟢 Switch Statement
+### 💲 Syntax
 ```JavaScript
 switch (/* expression */) {
   case /* expression | statement */: 
@@ -113,7 +113,7 @@ switch (/* expression */) {
   }
 }
 ```
-### Example 1
+### ⚡ Example 1
 ```JavaScript
 const day = 3;
 switch (day) {
@@ -126,7 +126,7 @@ switch (day) {
   case 7: console.log("Saturday");
 }
 ```
-### Output
+### 🟰 Output
 ```bash
 Tuesday
 Wednesday
@@ -134,7 +134,7 @@ Thursday
 Friday
 Saturday
 ```
-### Example 2
+### ⚡ Example 2
 ```JavaScript
 const day = 3;
 switch (day) {
@@ -147,11 +147,11 @@ switch (day) {
   case 7: console.log("Saturday"); break;
 }
 ```
-### Output
+### 🟰 Output
 ```bash
 Tuesday
 ```
-### Example 3
+### ⚡ Example 3
 ```JavaScript
 const day = 3;
 switch (true) {
@@ -164,7 +164,7 @@ switch (true) {
   case day > 7: console.log("Saturday");
 }
 ```
-### Output
+### 🟰 Output
 ```bash
 Sunday
 Monday
@@ -174,7 +174,7 @@ Thursday
 Friday
 Saturday
 ```
-### Example 4
+### ⚡ Example 4
 ```JavaScript
 const day = 3;
 switch (true) {
@@ -187,11 +187,11 @@ switch (true) {
   case day > 7: console.log("Saturday"); break;
 }
 ```
-### Output
+### 🟰 Output
 ```bash
 Sunday
 ```
-### Example 5
+### ⚡ Example 5
 ```JavaScript
 
 const day = 753;
@@ -230,7 +230,7 @@ switch (day) {
   }
 }
 ```
-### Output
+### 🟰 Output
 ```bash
 BOOP BEEPPSSSS!
 ```
