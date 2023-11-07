@@ -19,7 +19,7 @@
 
 
 
-## 🟢 Example
+### ⚡ Example
 ```JavaScript
 const var1 = 7;
 const var2 = 6;
