@@ -140,6 +140,11 @@
   - number except 0 <- imply to true
 ### Array
   - [1, 9, 7, 3, 5]
+  - ["boop", "beep", "beep", "beeps"]
+  - ["boop", "beep", "boop", "beep"]
+  - [true, false, false, true, true]
+  - [true, false, 1, true, "beeps!"]
+  - [false, true, 1, true, "beeps!", { "key1": "value1" }]
 ### Object
 ```json
 {
