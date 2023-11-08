@@ -26,7 +26,7 @@ console.log("ตัวฉันนั้นชื่อ ", variable);
 ```
 ##### 🟰 Output Example
 ```Bash
-Lyndara Hafias Aom
+Lyndara Hafias Fah
 ```
 
 
