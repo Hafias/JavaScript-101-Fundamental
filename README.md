@@ -49,3 +49,14 @@
   - [Do-while](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/8%20-%20loops%20statement.md#-do-while-loop)
   - [While-do](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/8%20-%20loops%20statement.md#--while-do-loop)
   - [Exam](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/exams/8%20-%20loops%20statement.md)
+
+
+
+- ## 🤎 [Array Variable](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9%20-%20array%20variable.md)
+  - [Overview](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9%20-%20array%20variable.md)
+  - [Properies](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.1.1%20-%20array%20properties.md)
+  - [Accessibility](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.1%20-%20array%20accessibility.md)
+    - [Pop](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.1%20-%20array%20accessibility.md)
+    - [Shift](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.1%20-%20array%20accessibility.md)
+    - [Slice](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.2%20-%20array%20accessibility.md)
+    - [Splice](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.2%20-%20array%20accessibility.md)

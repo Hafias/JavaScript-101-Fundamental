@@ -146,7 +146,7 @@
   - ["boop", "beep", "boop", "beep"]
   - [true, false, false, true, true]
   - [true, false, 1, true, "beeps!"]
-  - [false, true, 1, true, "beeps!", { "key1": "value1" }]
+  - [false, true, 1, true, "beeps!", { "key": "value" }]
 ### Object
 ```json
 {
