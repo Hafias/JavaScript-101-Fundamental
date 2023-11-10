@@ -59,4 +59,4 @@
     - [Pop](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.1%20-%20array%20accessibility.md#-pop)
     - [Shift](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.1%20-%20array%20accessibility.md#-shift)
     - [Slice](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.2%20-%20array%20accessibility.md#-slice)
-    - [Splice](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.2%20-%20array%20accessibility.md$-splice)
+    - [Splice](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.2%20-%20array%20accessibility.md#-splice)
