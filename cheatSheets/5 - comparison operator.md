@@ -6,9 +6,9 @@
 
 ## 🟢 Comparison Operators
   - == (equivalent)(value)
-  - === (strict equivalent)(value and instance)
-  - != (not equivalent)(value)
-  - !== (strict not equivalent)(value and instance)
+  - === (strict equality)(value and instance)
+  - != (inequality)(value)
+  - !== (strict inequality)(value and instance)
   - \> (greater than)
   - < (less than)
   - \>= (greater than or equal)

@@ -14,6 +14,7 @@ for (/* initialization */; /* condition */; /* afterthought */) {
 ```
 ### ⚡ Example 1
 ```JavaScript
+// ส่วนใหญ่จะใช้ i กันเป็นสากล
 for (let i = 0; i < 5; i++) {
   console.log(i);
 }

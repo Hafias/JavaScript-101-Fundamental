@@ -37,8 +37,8 @@
 
 - ## 🩵 [Condition Statement](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/7%20-%20condition%20statement.md)
   - [If](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/7%20-%20condition%20statement.md#-if-statement)
-  - [If-else](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/7%20-%20condition%20statement.md#-if-else-statement)
-  - [If-else-if](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/7%20-%20condition%20statement.md#-if-else-if-statement)
+    - [If-else](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/7%20-%20condition%20statement.md#-if-else-statement)
+    - [If-else-if](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/7%20-%20condition%20statement.md#-if-else-if-statement)
   - [Switch](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/7%20-%20condition%20statement.md#-switch-statement)
   - [Exam](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/exams/7%20-%20condition%20statement.md)
 
@@ -60,3 +60,4 @@
     - [Shift](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.1%20-%20array%20accessibility.md#-shift)
     - [Slice](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.2%20-%20array%20accessibility.md#-slice)
     - [Splice](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/cheatSheets/9.3.2%20-%20array%20accessibility.md#-splice)
+  - [Exam](https://github.com/Hafias/JavaScript-101-Fundamental/blob/main/exams/9%20-%20array%20variable.md)
